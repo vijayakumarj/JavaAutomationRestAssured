@@ -16,6 +16,7 @@ public class TestApiSample {
     @Test
     public void testSampleApi(){
         try{
+            //Just a change for commit1
             RestAssured.baseURI = "http://restapi.demoqa.com/utilities/weather/city";
             RequestSpecification httpRequest = RestAssured.given();
 
