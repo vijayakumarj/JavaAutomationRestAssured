@@ -12,7 +12,7 @@ public class DemoQAServices extends BaseServices {
         WeatherSample responseAsObject = Resources.Gson.fromJson(response.print(), WeatherSample.class);
         if (isSchemaValidationNeeded) {
             response.then().assertThat().body(matchesJsonSchemaInClasspath("weatherSample.json"));
-            System.out.println("Schema Validation Successful");
+            System.out.println("Schema Validation Successful 1");
         }
         return responseAsObject;
     }
