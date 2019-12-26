@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac8a203-fd9e-45a1-8d8b-49b2ebf90093" name="Default Changelist" comment="" />
+    <list default="true" id="aaed4bc9-98a4-4ddf-ab91-65cda32dbb0b" name="Default Changelist" comment="Committing a mock change">
+      <change afterPath="$PROJECT_DIR$/../SelfHealingFramework/SelfHealingFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_schema_validator_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/restassured/core/ReportLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/restassured/domain/Resources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/restassured/domain/models/WeatherSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/restassured/services/BaseServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/automation/restassured/services/DemoQAServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/restassured/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restassuredautomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/restassuredautomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automation/restassured/TestApiSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automation/restassured/TestApiSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automation/restassured/TestApiSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automation/restassured/TestApiSample.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +76,19 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/vijayakumarj/JavaAutomationRestAssured.git" />
+      </set>
     </option>
   </component>
-  <component name="ProjectId" id="1UkHiDi9RvPX35wzuoUAzBpKOND" />
+  <component name="ProjectId" id="1UkTEbTwl7MDQi6I7HECK45nRXN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,9 +96,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xiomate-bom" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestApiSample">
+    <configuration name="TestApiSample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restassuredautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation.restassured" />
+      <option name="MAIN_CLASS_NAME" value="automation.restassured.TestApiSample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestApiSample.testSampleApi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassuredautomation" />
       <extension name="coverage">
@@ -52,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestApiSample" />
         <item itemvalue="TestNG.TestApiSample.testSampleApi" />
       </list>
     </recent_temporary>
@@ -73,54 +164,163 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ac8a203-fd9e-45a1-8d8b-49b2ebf90093" name="Default Changelist" comment="" />
-      <created>1575893797192</created>
+      <changelist id="aaed4bc9-98a4-4ddf-ab91-65cda32dbb0b" name="Default Changelist" comment="" />
+      <created>1575899482554</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575893797192</updated>
+      <updated>1575899482554</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committing a mock change">
+      <created>1575901997970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575901997970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Committed unnecessary changes">
+      <created>1575902342220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575902342220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committing a mock change" />
+    <MESSAGE value="Committed unnecessary changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed unnecessary changes" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1575898629105">
+    <state x="673" y="171" key="#xdebugger.XInspectDialog" timestamp="1577369277130">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575898629105" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1575898629105">
+    <state x="673" y="171" key="#xdebugger.XInspectDialog/0.0.1536.834@0.0.1536.834" timestamp="1577369277130" />
+    <state x="524" y="127" key="#xdebugger.evaluate" timestamp="1577369399312">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575898629105" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1575898629105">
+    <state x="524" y="127" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1577369399312" />
+    <state x="520" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577371213991">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575898629105" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1575898629105">
+    <state x="520" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1577371213991" />
+    <state x="189" y="15" key="CommitChangelistDialog2" timestamp="1575963794654">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575898629105" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1575898629101">
+    <state x="189" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1575963794654" />
+    <state width="424" height="466" key="DebuggerActiveHint" timestamp="1577369235640">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575898629101" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1575898629100">
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1577369235640" />
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1577361940199">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1575898629100" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1575898629100">
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577361940199" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1577371401612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1575898629100" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1575898629100">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577371401612" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1577371401612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1575898629100" />
-    <state x="279" y="62" key="SettingsEditor" timestamp="1575895908929">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577371401612" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1577371401612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="279" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575895908929" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1575896956143">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577371401612" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1577371401612">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1575896956143" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577371401612" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1577371401608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577371401608" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1577371401608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577371401608" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1577371401608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577371401608" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1577371401608">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577371401608" />
+    <state x="292" y="131" key="RollbackChangesDialog" timestamp="1575902205286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="292" y="131" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1575902205286" />
+    <state x="279" y="62" key="SettingsEditor" timestamp="1575968648201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="279" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575968648201" />
+    <state x="618" y="339" key="VCS.ChangelistChooser" timestamp="1575902300106">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="618" y="339" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1575902300106" />
+    <state x="622" y="338" key="VCS.EditChangelistDialog" timestamp="1575902284117">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="622" y="338" key="VCS.EditChangelistDialog/0.0.1536.834@0.0.1536.834" timestamp="1575902284117" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1575902444335">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1575902444335" />
+    <state x="477" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1577376267808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1577376267808" />
+    <state x="182" y="121" key="new project wizard" timestamp="1577180119731">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="182" y="121" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577180119731" />
+    <state x="458" y="274" width="666" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1575968615236">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="458" y="274" width="666" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1575968615236" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1577370774995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1577370774995" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1577370785353">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1577370785353" />
+    <state x="491" y="336" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577349037429">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="336" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1577349037429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/automation/restassured/services/DemoQAServices.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="response.body().toString()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -1,10 +1,11 @@
 package automation.restassured;
 
 
+import automation.restassured.domain.models.WeatherSample;
+import automation.restassured.services.DemoQAServices;
 import io.restassured.RestAssured;
 import io.restassured.authentication.AuthenticationScheme;
 import io.restassured.http.Method;
-import io.restassured.internal.http.HTTPBuilder;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
@@ -16,20 +17,13 @@ public class TestApiSample {
     @Test
     public void testSampleApi(){
         try{
-            //Just a change for commit1
-            RestAssured.baseURI = "http://restapi.demoqa.com/utilities/weather/city";
-            RequestSpecification httpRequest = RestAssured.given();
+            DemoQAServices demoQAServices = new DemoQAServices();
+            WeatherSample weatherSample = demoQAServices.GetWeatherByCity("Hyderabad",true);
 
-            Response response = httpRequest.request(Method.GET, "/Hyderabad");
 
-            String responseBody = response.getBody().asString();
-            System.out.println(responseBody);
-
-            response.then().assertThat().body(matchesJsonSchemaInClasspath("weatherSample.json"));
         }
         catch (Exception e){
             System.out.println(e.getMessage().toString());
-
         }
 
 
