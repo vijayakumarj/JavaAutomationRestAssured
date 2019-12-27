@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 
-public class TestApiSample {
+public class TestApiSample extends TestBase{
     @Test
     public void testSampleApi(){
         try{

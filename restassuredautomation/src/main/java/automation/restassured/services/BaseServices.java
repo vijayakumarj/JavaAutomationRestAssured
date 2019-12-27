@@ -13,7 +13,10 @@ public class BaseServices {
     public Response Get(String path, int expectedStatusCode){
         Response response = RestAssured.get(Resources.BASE_URI+path);
         if (response.getStatusCode() != expectedStatusCode){
-            System.out.println("Status Codes are not matching");
+            System.out.println("Status Code validation is unsuccessful");
+        }
+        else{
+            System.out.println("Status Code validation is successful");
         }
         return response;
     }
