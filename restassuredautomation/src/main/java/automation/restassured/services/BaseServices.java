@@ -7,9 +7,11 @@ import io.restassured.specification.RequestSpecification;
 
 public class BaseServices {
 
+    public RequestSpecification httpRequest;
     public BaseServices(){
-        RequestSpecification httpRequest = RestAssured.given();
+        httpRequest = RestAssured.given();
     }
+
     public Response Get(String path, int expectedStatusCode){
         Response response = RestAssured.get(Resources.BASE_URI+path);
         if (response.getStatusCode() != expectedStatusCode){
@@ -20,8 +22,16 @@ public class BaseServices {
         }
         return response;
     }
-    public void Post(){
-
+    public Response Post(String jsonObject,String path,int expectedStatusCode){
+        httpRequest.body(jsonObject);
+        Response response = httpRequest.post(Resources.BASE_URI+path);
+        if (response.getStatusCode() != expectedStatusCode){
+            System.out.println("Status Code validation is unsuccessful");
+        }
+        else{
+            System.out.println("Status Code validation is successful");
+        }
+        return response;
     }
     public void Delete(){
 
