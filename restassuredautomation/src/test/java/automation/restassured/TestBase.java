@@ -21,7 +21,6 @@ public class TestBase {
     public void BeforeSuite(){
         Resources.BASE_URI = "http://restapi.demoqa.com/";
         Resources.Gson = new Gson();
-        //ReportLogger reportLogger = new ExtentReporter();
     }
     @AfterSuite
     public void AfterSuite(){

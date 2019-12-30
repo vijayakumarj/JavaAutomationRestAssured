@@ -5,7 +5,7 @@ import automation.restassured.services.DemoQAServices;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class DemoQAPostApi extends TestBase{
+public class DemoQAPostApiTest extends TestBase{
     @Test
     public void PostCustomer(){
         try {
