@@ -11,7 +11,7 @@ public class DemoQAGetAPISchemaValidationTest extends TestBase{
     public void testSampleApi(){
         try{
             DemoQAServices demoQAServices = new DemoQAServices();
-            WeatherSample weatherSample = demoQAServices.GetWeatherByCity("Hyderabad",true,200);
+            WeatherSample weatherSample = demoQAServices.GetWeatherByCity("Hyderabad",200);
 
             Assert.assertEquals("Hyderabad",weatherSample.getCity());
         }

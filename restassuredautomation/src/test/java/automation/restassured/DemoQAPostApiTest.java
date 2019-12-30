@@ -19,7 +19,7 @@ public class DemoQAPostApiTest extends TestBase{
             demoQAServices.postCustomer(customer,200);
         }
         catch (Exception e){
-            System.out.println(e.getMessage());
+            e.printStackTrace();
             Assert.fail(e.getMessage());
         }
     }
