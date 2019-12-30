@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class DemoQAPostApi extends TestBase{
-    @Test (groups = { "Smoke"})
+    @Test
     public void PostCustomer(){
         try {
             Customer customer = new Customer();

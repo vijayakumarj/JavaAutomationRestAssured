@@ -15,7 +15,7 @@ import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 
 public class DemoQAGetAPISchemaValidation extends TestBase{
-    @Test (groups = { "Smoke"})
+    @Test
     public void testSampleApi(){
         try{
             DemoQAServices demoQAServices = new DemoQAServices();
