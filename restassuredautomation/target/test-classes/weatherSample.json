@@ -1,8 +1,32 @@
 {
-  "City": "Hyderabad",
-  "Temperature": "24.8 Degree celsius",
-  "Humidity": "69 Percent",
-  "WeatherDescription": "haze",
-  "WindSpeed": "2.65 Km per hour",
-  "WindDirectionDegree": "105 Degree"
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "City": {
+      "type": "string"
+    },
+    "Temperature": {
+      "type": "string"
+    },
+    "Humidity": {
+      "type": "string"
+    },
+    "WeatherDescription": {
+      "type": "string"
+    },
+    "WindSpeed": {
+      "type": "string"
+    },
+    "WindDirectionDegree": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "City",
+    "Temperature",
+    "Humidity",
+    "WeatherDescription",
+    "WindSpeed",
+    "WindDirectionDegree"
+  ]
 }
